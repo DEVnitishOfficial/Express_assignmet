@@ -1,0 +1,17 @@
+{
+  "name": "counter_backend_app",
+  "version": "1.0.0",
+  "description": "backend app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "counter"
+  ],
+  "author": "nitish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
